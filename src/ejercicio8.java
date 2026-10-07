@@ -1,4 +1,3 @@
-
 public class ejercicio8 {
     public static void main(String[] args) {
         int secuencia [][] = new int [10][10];
